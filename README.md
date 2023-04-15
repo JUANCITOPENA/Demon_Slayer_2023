@@ -15,6 +15,6 @@ El proyecto "Demon_Slayer_2023" consiste en el diseño y desarrollo de una pági
 ![](imagen2.png)
 
 ## Fotos:
-![](imagen31.png)
+![](imagen3.png)
 
 
