@@ -5,6 +5,8 @@ El proyecto "Demon_Slayer_2023" consiste en el diseño y desarrollo de una pági
 
 ## URL:https://juancitopena.github.io/Demon_Slayer_2023/
 
+## Acceso: USUARIO: JUANCITO PASSWORD:123456
+
 ## Fotos:
 ![](imagen4.png)
 
